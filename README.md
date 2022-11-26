@@ -6,7 +6,7 @@ This architecture can be used for example in image deniosing. This repository re
 ![training_res](https://user-images.githubusercontent.com/71509624/204093141-f7c8c6c6-7b6a-4192-94d6-554ed20ed16e.png)
 
 ## Usage
-To use this code you need to follow te comand `python3 usage.py <image path>`, where <image path> is a path to image wich need to be denoised. For testing you can use noise_img.png to which I already add some noise.
+To denoise your image use the folowwing command `python3 usage.py <image path>`, where <image path> is a path to image wich need to be denoised. For testing you can use noise_img.png to which I already add some noise.
 As a result you will get two images:
  1. `fig.png` - shows the origin noised image and the result of denoising at once
  
