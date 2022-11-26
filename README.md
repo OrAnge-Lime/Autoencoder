@@ -10,7 +10,7 @@ To use this code you need to follow te comand `python3 usage.py <image path>`, w
 As a result you will get two images:
  1. `fig.png` - shows the origin noised image and the result of denoising at once
  
- ![fig](https://user-images.githubusercontent.com/71509624/204092993-11f9bd96-e287-44a7-90b7-0e8375084877.png)
+![fig128](https://user-images.githubusercontent.com/71509624/204093301-a5d04fa5-df64-47ae-883e-7e6519fc3b00.png)
  
  2. `denoised_img.png` - shows the denoised image in proper resolution
  
